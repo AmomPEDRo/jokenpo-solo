@@ -47,10 +47,3 @@ Você venceu!
 - Permitir jogar várias rodadas
 - Interface gráfica (GUI) com Tkinter ou outra biblioteca
 
-## 📄 Licença
-
-Este projeto está sob a licença MIT. Sinta-se à vontade para usar, modificar e compartilhar!
-
----
-
-Se quiser que eu escreva o README em inglês ou formate para Markdown mais técnico, só avisar!
