@@ -1,4 +1,4 @@
-# 🪨📄✂️ Jogo Pedra, Papel e Tesoura (CLI)
+ 🪨📄✂️ Jogo Pedra, Papel e Tesoura (CLI)
 
 Este é um simples jogo de **Pedra, Papel e Tesoura** que roda no terminal, escrito em Python. O jogador faz sua escolha, o computador escolhe aleatoriamente, e o resultado é exibido na tela.
 
